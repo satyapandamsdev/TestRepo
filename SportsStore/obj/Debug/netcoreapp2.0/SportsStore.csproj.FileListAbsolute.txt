@@ -1,0 +1,11 @@
+D:\NewProjects\NewTest\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.deps.json
+D:\NewProjects\NewTest\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.json
+D:\NewProjects\NewTest\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.runtimeconfig.dev.json
+D:\NewProjects\NewTest\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.dll
+D:\NewProjects\NewTest\SportsStore\bin\Debug\netcoreapp2.0\SportsStore.pdb
+D:\NewProjects\NewTest\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csprojResolveAssemblyReference.cache
+D:\NewProjects\NewTest\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.csproj.CoreCompileInputs.cache
+D:\NewProjects\NewTest\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfoInputs.cache
+D:\NewProjects\NewTest\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.AssemblyInfo.cs
+D:\NewProjects\NewTest\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.dll
+D:\NewProjects\NewTest\SportsStore\obj\Debug\netcoreapp2.0\SportsStore.pdb
