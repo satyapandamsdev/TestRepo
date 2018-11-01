@@ -6,6 +6,9 @@
   </PropertyGroup>
 
   <ItemGroup>
+    <None Remove="ClientApp\app\models\product.model.ts" />
+    <None Remove="ClientApp\app\models\rating.model.ts" />
+    <None Remove="ClientApp\app\models\supplier.model.ts" />
     <None Remove="ClientApp\boot.ts" />
   </ItemGroup>
 
@@ -20,6 +23,9 @@
   </ItemGroup>
 
   <ItemGroup>
+    <TypeScriptCompile Include="ClientApp\app\models\product.model.ts" />
+    <TypeScriptCompile Include="ClientApp\app\models\rating.model.ts" />
+    <TypeScriptCompile Include="ClientApp\app\models\supplier.model.ts" />
     <TypeScriptCompile Include="ClientApp\boot.ts" />
   </ItemGroup>
 
