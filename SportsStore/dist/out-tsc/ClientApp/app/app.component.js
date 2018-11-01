@@ -9,7 +9,7 @@ Object.defineProperty(exports, "__esModule", { value: true });
 var core_1 = require("@angular/core");
 var AppComponent = /** @class */ (function () {
     function AppComponent() {
-        this.title = 'app';
+        this.title = 'Angular & ASP.NET Core MVC';
     }
     AppComponent = __decorate([
         core_1.Component({

@@ -12531,6 +12531,9 @@
   },
   "project": {
     "version": "1.0.0",
+    "restoreSettings": {
+      "hideWarningsAndErrors": true
+    },
     "restore": {
       "projectUniqueName": "D:\\NewProjects\\NewTest\\SportsStore\\SportsStore.csproj",
       "projectName": "SportsStore",
@@ -12566,18 +12569,18 @@
     "frameworks": {
       "netcoreapp2.0": {
         "dependencies": {
+          "Microsoft.NETCore.App": {
+            "target": "Package",
+            "version": "2.0",
+            "autoReferenced": true
+          },
           "Microsoft.AspNetCore.All": {
             "target": "Package",
-            "version": "[2.0.5, )"
+            "version": "2.0.5"
           },
           "Microsoft.AspNetCore.SpaServices": {
             "target": "Package",
-            "version": "[2.1.1, )"
-          },
-          "Microsoft.NETCore.App": {
-            "target": "Package",
-            "version": "[2.0.0, )",
-            "autoReferenced": true
+            "version": "2.1.1"
           }
         },
         "imports": [
