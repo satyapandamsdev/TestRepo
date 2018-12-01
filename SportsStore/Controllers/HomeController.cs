@@ -8,7 +8,7 @@ using SportsStore.Models;
 
 namespace SportsStore.Controllers
 {
-    public class HomeController : Controller
+    public class HomeController:Controller
     {
       private DataContext context;
 
